@@ -38,8 +38,7 @@
 ## About The Project
 <a name="about-the-project"></a>
 
-The application displays the desired satellite orbits on a 2D representation of Earth.
-When the application starts, it initially shows the paths of two satellites (ISS (ZARYA) and HST) relative to Earth.
+This application visualizes satellite orbits on a 2D map of Earth. Upon startup, it displays the real-time orbital paths of two predefined satellites — the International Space Station (ISS / ZARYA) and the Hubble Space Telescope (HST) — as they move relative to the Earth's surface. The goal is to provide a clear, interactive view of how satellites travel around the planet.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
